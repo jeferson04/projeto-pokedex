@@ -4,8 +4,8 @@
   "description": "Pokemon listing app with infinite scroll and filters",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "npx vite build"
+     "dev": "vite",
+     "build": "npx vite build"
   },
   "keywords": [
     "pokemon",
