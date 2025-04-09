@@ -1,0 +1,43 @@
+{
+  "app": {
+    "title": "Pokédex",
+    "loading": "Carregando..."
+  },
+  "nav": {
+    "home": "Início",
+    "signup": "Cadastrar",
+    "login": "Entrar",
+    "logout": "Sair"
+  },
+  "pokemon": {
+    "list": "Lista de Pokémon",
+    "detail": "Detalhes do Pokémon",
+    "filter": {
+      "title": "Filtros",
+      "name": "Nome",
+      "id": "ID",
+      "type": "Tipo",
+      "species": "Espécie",
+      "apply": "Aplicar",
+      "clear": "Limpar"
+    },
+    "loadMore": "Carregar Mais",
+    "sprites": "Imagens",
+    "moves": "Movimentos",
+    "evolutions": "Evoluções",
+    "games": "Aparições em Jogos",
+    "attacks": "Ataques",
+    "noEvolutions": "Este Pokémon não possui evoluções.",
+    "height": "Altura",
+    "weight": "Peso",
+    "baseExperience": "Experiência Base"  
+  },
+  "signup": {
+    "title": "Cadastro",
+    "name": "Nome",
+    "email": "Email",
+    "password": "Senha",
+    "submit": "Cadastrar",
+    "success": "Cadastro realizado com sucesso!"
+  }
+}
